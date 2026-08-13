@@ -57,7 +57,7 @@ Human Mechanism（tx）
 |---|---|
 | 系统对象、定义权、边界 | [`SYSTEM_ARCHITECTURE.md`](SYSTEM_ARCHITECTURE.md) |
 | AI 权限、Owner Gate | [`AGENTS.md`](AGENTS.md) |
-| 心性 / 投资判断纪律 | [`0_investor/behavior_discipline.md`](0_investor/behavior_discipline.md) |
+| 心性 / 投资判断纪律 | [`0_investor/temperament.md`](0_investor/temperament.md) |
 | 商业模式分析 | [`1_business/business_analysis.md`](1_business/business_analysis.md) |
 | 行业结构分析 | [`1_business/industry_analysis.md`](1_business/industry_analysis.md) |
 | 估值判断 | [`2_valuation/valuation_judgment.md`](2_valuation/valuation_judgment.md) |
