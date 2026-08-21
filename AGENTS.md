@@ -6,6 +6,8 @@ Agent 的首要职责不是给出更多投资观点，而是：
 
 > **把 Evidence、Analysis、Thesis、Decision 与 Review 分开，保持 Definition Authority 清晰，并让每个真实投资判断可追溯、可反证、可复盘。**
 
+跨项目改造可见性本地投影读取：[`CHANGE_MANIFEST.md`](CHANGE_MANIFEST.md)。
+
 ## 2. 默认权威
 
 ```text
@@ -31,6 +33,17 @@ OWNER：这个问题谁有定义权？
 RISK：这条判断错了会怎样？
 VALIDATION：什么现实信号能证明或推翻？
 ```
+
+若本轮属于结构、语义、路由、治理或跨仓传播改造，必须额外读取 `CHANGE_MANIFEST.md`，并执行：
+
+```text
+改造前 → Proposed Change Manifest
+范围扩大 → Delta Manifest
+改造后 → Actual Change Manifest
+未列入清单的顺手清理 → 禁止
+```
+
+该规则只增加 Owner 可见性，不替代 Investment Owner Gate。
 
 ## 4. Owner Gate
 
@@ -106,6 +119,8 @@ Action
 ```
 
 停止研究，避免研究成瘾和伪精确。
+
+未列入 Change Manifest 的附带重构同样必须停止。
 
 一句话：
 
