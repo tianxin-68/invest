@@ -145,3 +145,33 @@ b5fb570  investor: add resource allocation decision projection
 99b18df  investor: reorder decision trace by runtime sequence
 06b388c  investor: index resource allocation decision
 ```
+
+---
+
+## 2026-08-25｜Resource Allocation Framework Reclassification
+
+### Proposed Change Manifest
+
+**改什么**
+
+- 保留 `0_investor/resource_allocation_decision.md` 的 A→E 投资决策链与 A0–E1 两层索引；
+- 将其从“Meta Resource Allocation Method 的 Local Projection”重分类为 **Invest Domain Framework**；
+- 移除错误的 Meta provenance / Projection 身份，避免一个尚未经 Local-first Promotion Gate 验证的抽象反向取得跨域定义权。
+
+**为什么**
+
+该框架首先是在投资问题中形成并用于真实消费的 Domain Framework。按新的 `Local Execute → Meta Candidate → Owner Gate → Meta Publish` 规则，应先让投资框架在本域运行和校准，再提炼真正跨域的构造 Learning；不能因为能类比 Career 就直接升格为 Meta Source。
+
+**影响范围**
+
+```text
+0_investor/resource_allocation_decision.md
+CHANGE_MANIFEST.md
+```
+
+**明确不改**
+
+- 不删除 A→E 决策顺序与 A0–E1 索引；
+- 不修改 `templates/investment_decision.md` 当前执行顺序；
+- 不修改 Invest 一级 Architecture / Concern / Owner Gate；
+- 不在本轮把“层级少、每层元素尽量少”直接写入 Meta Source；它保留为后续 Meta Candidate。
