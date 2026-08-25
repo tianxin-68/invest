@@ -57,6 +57,7 @@ Human Mechanism（tx）
 |---|---|
 | 系统对象、定义权、边界 | [`SYSTEM_ARCHITECTURE.md`](SYSTEM_ARCHITECTURE.md) |
 | AI 权限、Owner Gate | [`AGENTS.md`](AGENTS.md) |
+| 投资教练 / 每周文章训练 | [`0_investor/investment_coach.md`](0_investor/investment_coach.md) |
 | 心性 / 投资判断纪律 | [`0_investor/temperament.md`](0_investor/temperament.md) |
 | 商业模式分析 | [`1_business/business_analysis.md`](1_business/business_analysis.md) |
 | 行业结构分析 | [`1_business/industry_analysis.md`](1_business/industry_analysis.md) |
@@ -117,7 +118,8 @@ Good Company != Good Investment
 ## 5. 当前训练循环
 
 ```text
-每周 1 个投资心性机制
+每周 2 篇 Investment Coach 高质量文章 → Evidence / Candidate + 训练题
+→ 每周 1 个投资心性机制
 → 每周 1 家公司商业模式
 → 每 2 周 1 个行业结构
 → 每月 1 份完整 Research Thesis
