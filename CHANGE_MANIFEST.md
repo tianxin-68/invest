@@ -175,3 +175,24 @@ CHANGE_MANIFEST.md
 - 不修改 `templates/investment_decision.md` 当前执行顺序；
 - 不修改 Invest 一级 Architecture / Concern / Owner Gate；
 - 不在本轮把“层级少、每层元素尽量少”直接写入 Meta Source；它保留为后续 Meta Candidate。
+
+### Delta Manifest
+
+读取当前 `README.md` 后发现旧的 Meta provenance 仍被公开为 Dependency：
+
+```text
+meta@dev/methods/resource-allocation-decision.md
+→ invest@dev/0_investor/resource_allocation_decision.md
+```
+
+因此将 `README.md` 纳入本次修正，只删除这条过时的跨域依赖声明，并把资源配置入口表述为 Invest 本地 Domain Framework。
+
+**扩展后影响范围**
+
+```text
+0_investor/resource_allocation_decision.md
+README.md
+CHANGE_MANIFEST.md
+```
+
+其他 Explicitly Unchanged 保持不变。
