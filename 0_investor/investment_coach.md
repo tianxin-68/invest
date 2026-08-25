@@ -182,3 +182,64 @@ Business Reality
 ### Source Gate
 
 本篇仅作为 `Evidence / Candidate`。只有经过重复应用、反例检查、Owner 判断与后续 Reality Review，才可能形成 `Source Correction Candidate`；不因 Howard Marks 的权威性直接升级为稳定 Investment Source。
+
+## 2026-08-25｜AI Hurtles Ahead
+
+**作者 / 来源**：Howard Marks / Oaktree Capital  
+**发布日期**：2026-02-26  
+**原文**：https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead  
+**Classification**：`Evidence / Candidate`
+
+### 为什么现在值得读
+
+这篇最值得训练的不是判断“AI 会不会改变世界”，而是阻断一个常见的投资跳跃：
+
+```text
+Technology Revolution
+!= Great Company
+!= Attractive Security at Current Price
+```
+
+一个趋势可以极其真实，相关企业也可能极其优秀，但投资仍然必须单独回答价格、预期、竞争胜负与仓位问题。
+
+### 3 个关键判断
+
+1. **趋势判断与资产判断必须解耦。** AI 的能力提升速度和经济影响可以非常大，但“产业会爆发”不能直接推出“AI 相关股票值得在当前价格买入”。资产回报还取决于谁能捕获利润、市场已经计入多少增长，以及最终现金流是否超过隐含预期。
+2. **当可获得信息和基础分析被 AI 大幅商品化，超额收益更依赖难标准化的判断。** 公开数据处理、信息搜集和常规分析越来越难成为持久优势；真正稀缺的部分转向新情境下的机制判断、定性辨别、反共识但可证伪的观点，以及在不确定性中的决策纪律。
+3. **高不确定性不是全进或全退的理由，而是仓位问题。** 对重大技术革命既存在“错过巨大上行”的风险，也存在“支付过高价格甚至永久损失资本”的风险。合理动作不是因为看不清就强行二元下注，而是通过选择性、价格纪律和适度仓位管理两侧错误成本。
+
+### 本篇训练能力
+
+`Thesis Separation + Capital Allocation Judgment`
+
+固定拆分：
+
+```text
+Trend Truth
+→ Industry Profit Pool
+→ Company Capture Ability
+→ Market Implied Expectations
+→ Price / Expected Return
+→ Position Size
+```
+
+不要把前一层的高置信度透传成后一层的高置信度。
+
+### Investor Drill
+
+任选一家你最认可的 AI 公司，强制写出六行：
+
+```text
+1. 我对 AI 趋势的判断：
+2. 这家公司凭什么捕获利润：
+3. 市场当前已经相信什么：
+4. 哪个变量必须超预期，我才有超额收益：
+5. 最大永久损失路径是什么：
+6. 在这些不确定性下，什么仓位才与我的置信度匹配：
+```
+
+如果第 1 行很强、但第 3～6 行答不出来，结论应是“趋势理解较强，投资判断尚未完成”，而不是买入。
+
+### Source Gate
+
+本篇仅作为 `Evidence / Candidate`。Howard Marks 对 AI、市场与仓位的判断都需要独立验证；只有经过重复应用、反例检查、Owner 判断与后续 Reality Review，才可能形成 `Source Correction Candidate`。
