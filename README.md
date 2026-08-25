@@ -58,7 +58,7 @@ Human Mechanism（tx）
 | 系统对象、定义权、边界 | [`SYSTEM_ARCHITECTURE.md`](SYSTEM_ARCHITECTURE.md) |
 | AI 权限、Owner Gate | [`AGENTS.md`](AGENTS.md) |
 | 投资教练 / 每周文章训练 | [`0_investor/investment_coach.md`](0_investor/investment_coach.md) |
-| **从机会比较到仓位的统一执行顺序** | [`0_investor/resource_allocation_decision.md`](0_investor/resource_allocation_decision.md) |
+| **投资域：从机会比较到仓位的统一执行顺序** | [`0_investor/resource_allocation_decision.md`](0_investor/resource_allocation_decision.md) |
 | 心性 / 投资判断纪律 | [`0_investor/temperament.md`](0_investor/temperament.md) |
 | 商业模式分析 | [`1_business/business_analysis.md`](1_business/business_analysis.md) |
 | 行业结构分析 | [`1_business/industry_analysis.md`](1_business/industry_analysis.md) |
@@ -180,21 +180,23 @@ decisions/
 ## 7. Dependency
 
 ```text
-meta → 通用建模 / 决策 / 验证方法
+meta → 通用建模 / 编译 / 验证方法
 tx   → Objective / Human Mechanism / Personal Constraint
 invest → Investment Domain Judgment + Training + Decision + Review
 ```
 
-其中资源配置运行顺序消费：
+资源配置执行顺序是 `invest` 本地 Domain Framework：
 
 ```text
-meta@dev/methods/resource-allocation-decision.md
-→ invest@dev/0_investor/resource_allocation_decision.md
+Industry / Business / Valuation / Risk Source
+→ 0_investor/resource_allocation_decision.md
 → templates/investment_decision.md
 ```
+
+它先在投资域运行和接受 Reality Review；若后续形成跨域可迁移 Learning，只进入 `META_CANDIDATE`，经 Owner 明确升格后才可能进入 Meta。
 
 通用人性定义归 `tx`；`invest` 只保存投资场景 Projection。
 
 ## 8. 一句话
 
-> **当前先训练“心性—商业—行业—估值—校准”的认知链，并用统一资源配置顺序把它们编排成可执行决策；不把投资系统做成交易系统或股票收藏夹。**
+> **当前先训练“心性—商业—行业—估值—校准”的认知链，并用投资域统一资源配置顺序把它们编排成可执行决策；不把投资系统做成交易系统或股票收藏夹。**
