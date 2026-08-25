@@ -108,3 +108,40 @@ README.md
 - 不把 Career Domain Truth 写入 invest；
 - 不引入固定打分、机械权重或自动交易规则；
 - 不顺手重构其他 Business / Valuation / Temperament Source。
+
+### Actual Change Manifest
+
+**实际改动**
+
+1. `meta@dev` 新增 `methods/resource-allocation-decision.md`，把跨投资 / 职业重复出现的资源配置判断提炼为 Reasoning / Decision Meta Method；
+2. `meta@dev/methods/README.md` 正式登记该 Method，并增加 Runtime 触发索引；
+3. `invest@dev` 新增 `0_investor/resource_allocation_decision.md`，按 `A Frame → B Understand → C Price → D Protect → E Allocate` 做自包含本地 Projection；
+4. `templates/investment_decision.md` 按 A0–E1 两层索引重排，仓位 / Action 延后到价值、价格、回报、风险与可逆性判断之后；
+5. `README.md` 增加统一资源配置顺序入口与 Dependency 路径；
+6. 保持 `SYSTEM_ARCHITECTURE.md`、Owner Gate 与一级 Concern 不变。
+
+**缘由**
+
+把“好公司 / 好行业 / 好岗位”与“是否值得配置稀缺资源”分开，形成一个跨域可复用、投资域可直接执行的决策顺序；减少从对象光环或趋势判断直接跳到高投入的错误。
+
+**验证**
+
+- 已读取验证 `meta@dev/methods/resource-allocation-decision.md`，包含 A0–E1 两层索引、Investment / Career Cross-domain Case 与 Decision Quality Standards；
+- 已读取验证 `invest@dev/0_investor/resource_allocation_decision.md`，明确 `runtime_dependency_on_meta: false`，并保持 Projection 身份；
+- 已读取验证 `templates/investment_decision.md`，执行顺序已对齐 A→E，且 `E0 Position / Action` 位于 Price / Return / Risk / Optionality 之后；
+- `README.md` 已建立正式入口；
+- 未修改 Invest / Meta 的 Frozen System Architecture。
+
+**Commits**
+
+```text
+meta@dev
+54df77a  decision: add resource allocation method
+fcac843  meta: index resource allocation decision method
+
+invest@dev
+fa5c06c  manifest: propose resource allocation decision projection
+b5fb570  investor: add resource allocation decision projection
+99b18df  investor: reorder decision trace by runtime sequence
+06b388c  investor: index resource allocation decision
+```
