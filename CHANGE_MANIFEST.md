@@ -75,3 +75,36 @@ Investment Coach automation
 1792f8b  investor: add investment coach training contract
 93cb758  investor: wire investment coach into training loop
 ```
+
+---
+
+## 2026-08-25｜Resource Allocation Decision Projection
+
+### Proposed Change Manifest
+
+**改什么**
+
+- 消费 `meta@dev/methods/resource-allocation-decision.md` 的通用资源配置决策方法；
+- 新增 `0_investor/resource_allocation_decision.md`，形成 Investment Domain Projection；
+- 将 `templates/investment_decision.md` 按真实决策执行顺序重排，并增加两层索引；
+- 在 `README.md` 增加该 Source / Projection 的正式入口。
+
+**为什么**
+
+当前投资系统已有 Business、Industry、Valuation、Risk、Decision Trace 等局部 Source，但缺少一个低带宽的运行顺序来回答：在有限资本与风险约束下，应该比较什么、先判断什么、最后如何决定仓位。此次只建立跨 Concern 的执行编排，不新增一级 Concern。
+
+**影响范围**
+
+```text
+0_investor/resource_allocation_decision.md
+templates/investment_decision.md
+README.md
+```
+
+**明确不改**
+
+- 不修改 `SYSTEM_ARCHITECTURE.md` 的一级 Concern；
+- 不改变真实 Buy / Sell / Add / Reduce 的 Owner Gate；
+- 不把 Career Domain Truth 写入 invest；
+- 不引入固定打分、机械权重或自动交易规则；
+- 不顺手重构其他 Business / Valuation / Temperament Source。
