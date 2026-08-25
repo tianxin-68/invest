@@ -1,8 +1,7 @@
-# Resource Allocation Decision｜Investment Projection
+# Resource Allocation Decision｜Investment Domain Framework
 
-> **Local Projection** of `tianxin-68/meta@dev/methods/resource-allocation-decision.md`.  
-> `runtime_dependency_on_meta: false`  
-> 本文件只负责投资域执行，不取得跨域 Definition Authority。
+> **职责**：组织投资域现有 Industry / Business / Valuation / Risk / Decision Source 的消费顺序，形成低带宽、可执行的资本配置决策链。  
+> **Definition Authority**：仅限 Investment Domain；不取得跨域 Meta Definition Authority。
 
 ## 1. Objective
 
@@ -166,7 +165,7 @@ unknown
 
 ## 6. Relationship to Existing Invest Sources
 
-本 Projection 不复制各 Concern 的 Domain Truth，只编排消费顺序：
+本 Framework 不复制各 Concern 的 Domain Truth，只编排消费顺序：
 
 ```text
 B0 Industry
@@ -186,9 +185,25 @@ Behavior / Slow Path
 → 0_investor/behavior_discipline.md
 ```
 
-它的角色是 **orchestrator / runtime decision projection**，不是第二份 Business、Valuation 或 Risk Source。
+它的角色是 **Investment Domain Orchestrator / Runtime Decision Framework**，不是第二份 Business、Valuation 或 Risk Source。
 
-## 7. Boundary
+## 7. Meta Promotion Boundary
+
+本框架首先在 `invest` 内运行、消费和校准。
+
+```text
+Local Invest Reality
+→ Local Framework Use
+→ Reality / Review Evidence
+→ 可迁移 Learning
+→ META_CANDIDATE
+→ Owner Gate
+→ 才可能形成 Meta Source
+```
+
+仅因为它可以类比 Career，不足以取得 Meta Definition Authority。
+
+## 8. Boundary
 
 本文件不：
 
