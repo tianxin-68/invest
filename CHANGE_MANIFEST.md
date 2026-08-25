@@ -196,3 +196,36 @@ CHANGE_MANIFEST.md
 ```
 
 其他 Explicitly Unchanged 保持不变。
+
+### Actual Change Manifest
+
+**实际改动**
+
+1. `0_investor/resource_allocation_decision.md` 从 `Investment Projection` 重分类为 `Investment Domain Framework`；
+2. 删除对 `meta@dev/methods/resource-allocation-decision.md` 的 Local Projection provenance，明确 Definition Authority 仅限 Investment Domain；
+3. 保留原有 A→E 决策链、A0–E1 两层索引、Five Gates 与 Decision Standards；
+4. 新增 Meta Promotion Boundary：先 Invest Local Reality / Review，再形成 `META_CANDIDATE`，不能因 Career 类比直接取得 Meta Authority；
+5. `README.md` 删除旧的 Meta Resource Allocation Dependency，并将资源配置顺序明确为 Invest 本地 Domain Framework；
+6. `templates/investment_decision.md` 不变，继续消费本地 Framework 的执行顺序。
+
+**验证**
+
+- 远端 `0_investor/resource_allocation_decision.md` 标题为 `Investment Domain Framework`，且声明不取得跨域 Meta Definition Authority；
+- 远端 `README.md` 的 Dependency 已变为 `Industry / Business / Valuation / Risk Source → Local Framework → Decision Trace`；
+- 远端 `README.md` 明确后续跨域 Learning 只先进入 `META_CANDIDATE`；
+- `meta@dev/methods/resource-allocation-decision.md` 已被上游撤回，不再作为本文件依赖；
+- A→E / A0–E1 与 Decision Trace 保持不变。
+
+**Commits**
+
+```text
+8832dd2  investor: reclassify resource allocation as domain framework
+feef3b7  investor: remove stale meta provenance from allocation framework
+```
+
+**当前状态**
+
+```text
+Investment Framework = LOCAL_APPLIED
+Potential Meta Learning = not published
+```
