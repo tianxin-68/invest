@@ -48,3 +48,30 @@ Investment Coach automation
 - 不修改 `SYSTEM_ARCHITECTURE.md` 的 Concern / Definition Authority；
 - 不把外部文章直接升级为 Investment Source；
 - 不引入荐股、短线交易或真实仓位自动决策。
+
+### Actual Change Manifest
+
+**实际改动**
+
+1. 新增 `0_investor/investment_coach.md`：定义每周 2 篇文章的 Selection Gate、Output Contract、Gmail/GitHub 双同步、Definition Authority 与 Stop Rule；
+2. 更新 `README.md`：增加 Investment Coach 核心入口，并将其接入现有训练循环；
+3. 更新既有 Investment Coach 自动化：每次生成后发送 Gmail `to: me`，并追加写入 `tianxin-68/invest@dev/0_investor/investment_coach.md`；
+4. 保持 `SYSTEM_ARCHITECTURE.md`、`AGENTS.md` 与现有一级 Concern 不变。
+
+**缘由**
+
+把“每周阅读两篇”从单纯内容消费升级为可持续训练闭环，但不提前支付新的架构复杂度。
+
+**验证**
+
+- 已确认 `0_investor/investment_coach.md` 存在且包含 cadence、selection、output、Gmail、GitHub append 与 Evidence/Candidate 约束；
+- 已确认 `README.md` 可从核心入口进入 Investment Coach，训练循环包含每周 2 篇；
+- 自动化已更新为周二/周五运行，并包含 Gmail + GitHub 持久化动作。
+
+**Repo commits**
+
+```text
+88eeba7  manifest: propose investment coach integration
+1792f8b  investor: add investment coach training contract
+93cb758  investor: wire investment coach into training loop
+```
