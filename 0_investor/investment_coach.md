@@ -243,3 +243,49 @@ Trend Truth
 ### Source Gate
 
 本篇仅作为 `Evidence / Candidate`。Howard Marks 对 AI、市场与仓位的判断都需要独立验证；只有经过重复应用、反例检查、Owner 判断与后续 Reality Review，才可能形成 `Source Correction Candidate`。
+
+## 2026-08-28｜A Look Under the Hood
+
+**作者 / 来源**：Howard Marks / Oaktree Capital  
+**发布日期**：2025-10-28  
+**原文**：https://www.oaktreecapital.com/insights/memo/a-look-under-the-hood  
+**Classification**：`Evidence / Candidate`
+
+### 为什么现在值得读
+
+这篇训练的不是某个资产观点，而是投资决策系统本身：先定义目标，再区分“承受风险的能力”和“愿意承担风险的意愿”，最后用足够长、覆盖不同市场状态的周期评价过程。它能直接防止三个常见错误：为追赶收益提高不该承担的风险、用单年结果评价能力、把波动误当成唯一风险。
+
+### 3 个关键判断
+
+1. **Risk Capacity 与 Risk Willingness 必须分开。** 能承受多少风险是资产负债、现金需求和生存约束问题；愿意承担多少风险是偏好与行为问题。低承受能力却高风险偏好不是“激进”，而是可能导致不可恢复损失的结构性错配。
+2. **投资目标必须是绝对目标优先，比较排名只能是局部诊断。** 长期真正的问题是资金能否完成自己的责任和目标，而不是是否跑赢别人；短期比较可以帮助判断“在当时环境下是否本可做得更好”，但不能反客为主。
+3. **结果不能脱离路径和完整周期评价。** 单次赚钱可能只是环境奖励了高风险暴露；单次落后也可能只是稳健策略在牛市的正常代价。评价投资能力至少要覆盖好环境与坏环境，并考虑“如果历史换一条路径，组合是否仍能活下来”。
+
+### 本篇训练能力
+
+`Risk Discipline + Performance Attribution`
+
+固定训练顺序：
+
+```text
+Objective / Liability
+→ Ability to Bear Risk
+→ Willingness to Bear Risk
+→ Portfolio Construction
+→ Multi-scenario Survival
+→ Full-cycle Performance Review
+```
+
+避免从“最近收益高 / 低”直接推出“决策对 / 错”。
+
+### Investor Drill
+
+拿你当前任意一个真实持仓，只回答：
+
+> 如果未来 12 个月它下跌 40%，我的“财务承受能力”和“心理持有意愿”分别是多少？如果两者不一致，我现在该调整的是 Thesis、仓位，还是资金期限？
+
+要求把 `Ability` 与 `Willingness` 分开写，不允许用“我长期看好”同时回答两者。
+
+### Source Gate
+
+本篇仅作为 `Evidence / Candidate`。Howard Marks 对风险、目标与绩效评估的观点需要结合个人约束和后续 Reality Review 验证；不因作者权威或框架漂亮直接升级为稳定 Investment Source。
