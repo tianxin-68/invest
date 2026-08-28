@@ -8,6 +8,12 @@ Agent 的首要职责不是给出更多投资观点，而是：
 
 跨项目改造可见性本地投影读取：[`CHANGE_MANIFEST.md`](CHANGE_MANIFEST.md)。
 
+所有 Durable Cognitive Change 的跨系统发布门禁读取：
+
+```text
+meta@dev/ecosystem/COGNITIVE_CHANGE_GATE.md
+```
+
 ## 2. 默认权威
 
 ```text
@@ -44,6 +50,19 @@ VALIDATION：什么现实信号能证明或推翻？
 ```
 
 该规则只增加 Owner 可见性，不替代 Investment Owner Gate。
+
+任何准备持久化为 Investment Source / Architecture / Runtime Contract 的 Durable Change，在 Publish 前必须执行：
+
+```text
+meta@dev/ecosystem/COGNITIVE_CHANGE_GATE.md
+→ classify L0 / L1 / L2 / L3
+→ Static Gate
+→ targeted Dynamic Gate when required
+→ Owner Gate when required
+→ publish + remote verify
+```
+
+Investment-specific Decision Discipline 可以作为更严格的本地 Gate，但不得复制或改写 Meta Gate 的跨系统定义。
 
 ## 4. Owner Gate
 
