@@ -289,3 +289,49 @@ Objective / Liability
 ### Source Gate
 
 本篇仅作为 `Evidence / Candidate`。Howard Marks 对风险、目标与绩效评估的观点需要结合个人约束和后续 Reality Review 验证；不因作者权威或框架漂亮直接升级为稳定 Investment Source。
+
+## 2026-09-01｜2025 Berkshire Shareholder Letter
+
+**作者 / 来源**：Greg Abel / Berkshire Hathaway  
+**发布日期**：2026-02-28  
+**原文**：https://www.berkshirehathaway.com/letters/2025ltr.pdf  
+**Classification**：`Evidence / Candidate`
+
+### 为什么现在值得读
+
+前几次训练集中在估值、预期和风险。这篇补的是另一个核心能力：**资本配置不是孤立的“买什么”，而是经营质量、管理结构、机会成本与长期复利的联合决策。**
+
+Abel 把 Berkshire 的资本去向统一到一个目标：无论是扩张现有业务、收购企业、买股票还是回购，都比较其对长期每股内在价值增长的贡献。同时，Berkshire 把“去中心化经营 + 集中资本配置”放在同一体系里：业务经营权下放给最接近现场的负责人，但重大资本配置责任最终集中到 CEO。
+
+### 3 个关键判断
+
+1. **资本配置的比较单位应该统一。** 内部再投资、并购、二级市场股票、回购不是四套逻辑，而是在同一资本池里竞争；都要比较风险、预期回报和对每股内在价值的长期增量。
+2. **好业务不仅看当前利润，还看增量资本的回报机会。** 有些优秀业务几乎不需要追加资本、持续上缴现金；另一些则能以高回报继续吸收资本。两者都可能优秀，但对资本配置者的价值完全不同。
+3. **经营授权与资本配置权可以分离。** Berkshire 强调让业务 CEO 自主经营、承担结果责任，同时把重大资本配置集中到最高层。投资分析里也应区分：管理层是否会经营，以及它是否会把赚到的钱继续配置到高回报用途。
+
+### 本篇训练能力
+
+`Capital Allocation + Business Quality Judgment`
+
+固定分析链：
+
+```text
+Business earns cash
+→ How much must be reinvested?
+→ Incremental ROIC on reinvestment
+→ Excess cash destination
+→ Buyback / M&A / Debt / Dividend discipline
+→ Per-share value compounding
+```
+
+不要只问“这家公司赚钱能力强不强”，还要问“赚到的钱下一步去了哪里，回报率是多少”。
+
+### Investor Drill
+
+任选一家你长期看好的公司，只回答一个问题：
+
+> 如果未来 5 年它累计产生 100 元自由现金流，管理层最可能把这 100 元分别投到哪里？逐项估算这些去向的边际回报率。最后判断：真正支撑你长期回报的，是现有业务本身，还是管理层未来对现金的再配置能力？
+
+### Source Gate
+
+本篇仅作为 `Evidence / Candidate`。Greg Abel / Berkshire 的资本配置原则是高质量外部输入，但不因 Berkshire 的历史成功或作者职位直接升级为 Investment Source；仍需结合不同公司、反例与后续 Reality Review 验证。
