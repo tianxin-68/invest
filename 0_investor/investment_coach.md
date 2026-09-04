@@ -335,3 +335,35 @@ Business earns cash
 ### Source Gate
 
 本篇仅作为 `Evidence / Candidate`。Greg Abel / Berkshire 的资本配置原则是高质量外部输入，但不因 Berkshire 的历史成功或作者职位直接升级为 Investment Source；仍需结合不同公司、反例与后续 Reality Review 验证。
+
+## 2026-09-04｜Bill Nygren Market Commentary 1Q16
+
+**作者 / 来源**：Bill Nygren / Oakmark Funds  
+**原文**：https://oakmark.com/news-insights/bill-nygren-market-commentary-1q16/  
+**Classification**：`Evidence / Candidate`
+
+### 为什么现在值得读
+
+上一轮刚训练了“资本应该如何配置”，这一篇进一步训练更难的一层：**作为外部股东，怎样判断管理层是否真的会配置资本，而不是被 CEO 的表达、公司故事或短期经营表现迷惑。** 它把 Business Quality、Management Quality、Capital Allocation 与 Price 放在同一个长期持有框架里，增量明显高于再读一篇泛泛的资本配置文章。
+
+### 3 个关键判断
+
+1. **好管理层不等于会经营，长期股东更要判断其资本配置。** 五年持有期里，赚到的钱如何再投资、并购、回购或分红，会持续改变每股价值；管理层若只追求公司规模而不看每股价值，经营优秀也可能伤害股东回报。
+2. **评价管理层要看可验证 Track Record，而不是“CEO 很 impressive”。** CEO 天然擅长表达且掌握信息优势；更可靠的证据是历史上如何花自由现金流、并购/剥离的价格纪律、是否在低估时回购、高估时谨慎，以及激励是否与长期每股价值一致。
+3. **管理层访谈的目标不是预测下季度，而是识别决策函数。** 应重点追问长期目标、激励、成功/失败的自我评价标准，以及在不同资本配置情景下会如何选择；本质上是在判断“我是否愿意把未来五年的资本配置权交给这个商业伙伴”。
+
+### 本篇训练能力
+
+`Management Quality + Capital Allocation Judgment`
+
+会直接改变：长期持仓 Thesis、管理层质量评分、并购/回购判断，以及在同等业务质量下愿意支付的估值溢价。
+
+### Investor Drill
+
+任选一家你正在研究或长期持有的公司，只做一张过去 5 年的资本配置表：
+
+> 自由现金流分别去了内部再投资、并购、回购、分红、还债中的哪里？每一项事后创造还是毁灭了每股价值？如果不听管理层任何表述，只看这张 Track Record，你还愿意把未来 5 年的资本配置权交给他们吗？
+
+### Source Gate
+
+本篇仅作为 `Evidence / Candidate`。Bill Nygren / Oakmark 的经验判断需要通过不同公司、反例与后续 Reality Review 验证；不因长期业绩、作者资历或观点契合直接升级为 Investment Source。
