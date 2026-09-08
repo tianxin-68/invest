@@ -367,3 +367,49 @@ Business earns cash
 ### Source Gate
 
 本篇仅作为 `Evidence / Candidate`。Bill Nygren / Oakmark 的经验判断需要通过不同公司、反例与后续 Reality Review 验证；不因长期业绩、作者资历或观点契合直接升级为 Investment Source。
+
+## 2026-09-08｜Energy investing without macro calls
+
+**作者 / 来源**：Alex Fitch / Harris | Oakmark  
+**发布日期**：2026-03-20  
+**原文**：https://oakmark.com/wp-content/uploads/sites/3/2026/03/Harris-Oakmark_Energy-investing-without-macro-calls_vF.pdf  
+**Classification**：`Evidence / Candidate`
+
+### 为什么现在值得读
+
+前几次已经训练了估值、风险、资本配置和管理层判断。这篇把它们放进一个高波动、强周期行业里，训练更难的一步：**当最显眼的宏观变量不可预测时，如何找到更稳定、可分析、真正决定长期价值的变量。**
+
+它不是教你预测油价，而是示范如何把“宏观预测题”重构成“产业成本结构 + 企业质量 + 资本配置 + 价格”的可投资问题。
+
+### 3 个关键判断
+
+1. **不可预测的短期价格，不等于行业不可估值。** 短期油价受库存、OPEC、需求和地缘政治共同驱动，很难持续预测；但长期价格受生产者成本曲线约束。投资时应寻找能解释长期均衡的结构变量，而不是试图赢下每一次短期宏观判断。
+2. **周期股估值要从“预测商品价格”转向“穿越周期的盈利能力”。** 更值得承保的是资产质量、成本位置、库存深度、资产负债表和 mid-cycle earning power。真正的问题不是“明年油价是多少”，而是“在合理的中周期价格下，这家公司能赚多少、活多久、值多少”。
+3. **高资本密集行业里，资本配置可能比商品价格更重要。** 上游能源公司五年内再投资的资本可能超过自身当前市值；当管理层需要反复重新下注整个资本基盘时，并购、勘探、回购和资产处置的纪律会持续改变每股价值。
+
+### 本篇训练能力
+
+`Industry Judgment + Cyclical Valuation + Capital Allocation Judgment`
+
+固定拆分：
+
+```text
+Short-term Macro Noise
+→ Long-run Industry Cost Structure
+→ Mid-cycle Economics
+→ Company Cost / Asset / Balance-sheet Quality
+→ Capital Allocation
+→ Price / Expected Return
+```
+
+### Investor Drill
+
+任选一个你认为“太依赖宏观、所以没法估”的行业，只回答：
+
+> 这个行业最显眼但难预测的变量是什么？有没有一个更慢、更稳定、能约束长期均衡的结构变量？如果把短期预测拿掉，我还能用哪些企业级变量估算 through-cycle earning power 和合理价值？
+
+如果找不到稳定锚点，就承认不可估；如果能找到，就不要再把“宏观不可预测”误等同于“企业不可分析”。
+
+### Source Gate
+
+本篇仅作为 `Evidence / Candidate`。Alex Fitch / Oakmark 对能源成本曲线、资本配置和中周期估值的判断仍需跨行业、反例与后续 Reality Review 验证；不因机构资历或框架契合直接升级为 Investment Source。
